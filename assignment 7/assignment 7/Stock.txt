@@ -1,0 +1,45 @@
+Motorola Inc.
+MOT
+17.49
+Microsoft Corp.
+MSFT
+28.11
+Tesla
+TSLA
+564.33
+Intel
+INTC
+60.78
+Sony
+SNE
+105.81
+Advanced Micro Devices
+AMD
+84.51
+NVIDIA
+NVDA
+548.58
+Apple
+AAPL
+121.73
+Google
+GOOGL
+92.83
+Amazon Inc.
+AMZN
+212.23
+Samsung Electronics
+SSEL
+57.91
+Peloton Interactive
+PTON
+10.11
+Avdo Corporation
+AVDC
+357.89
+Bank of America Corp
+BAC
+25.17
+JPMorgan Chase & Co
+JPM
+135.69
