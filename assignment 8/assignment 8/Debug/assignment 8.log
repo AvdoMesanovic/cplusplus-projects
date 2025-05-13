@@ -1,0 +1,3 @@
+﻿  coin_collection.cpp
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 8\assignment 8\coin_collection.cpp(52,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  assignment 8.vcxproj -> C:\Users\avdom\OneDrive\Documents\source\repos\assignment 8\Debug\assignment 8.exe
