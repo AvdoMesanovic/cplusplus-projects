@@ -1,0 +1,7 @@
+﻿  math_tutor_2.cpp
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\assignment 14\math_tutor_2.cpp(62,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\assignment 14\math_tutor_2.cpp(89,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\assignment 14\math_tutor_2.cpp(116,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\assignment 14\math_tutor_2.cpp(143,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\assignment 14\math_tutor_2.cpp(32,3): warning C4101: 'quotient': unreferenced local variable
+  assignment 14.vcxproj -> C:\Users\avdom\OneDrive\Documents\source\repos\assignment 14\Debug\assignment 14.exe
