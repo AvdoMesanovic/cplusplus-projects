@@ -1,0 +1,60 @@
+﻿  stockDriver.cpp
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(35,10): error C3646: 'companyName': unknown override specifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(35,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(36,10): error C3646: 'stockSymbol': unknown override specifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(36,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(40,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(40,21): error C2143: syntax error: missing ',' before '&'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(43,10): error C3646: 'getName': unknown override specifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(43,17): error C2059: syntax error: '('
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(43,25): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(44,10): error C3646: 'getSymbol': unknown override specifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(44,19): error C2059: syntax error: '('
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(44,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(52,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(52,26): error C2143: syntax error: missing ',' before '&'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(54,2): error C2065: 'companyName': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(54,16): error C2065: 'name': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(55,2): error C2065: 'stockSymbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(55,16): error C2065: 'symbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(56,15): error C2065: 'price': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(63,2): error C2065: 'companyName': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(63,18): error C2039: 'companyName': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(64,2): error C2065: 'stockSymbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(64,18): error C2039: 'stockSymbol': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(72,2): error C2065: 'cout': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(72,32): error C2065: 'companyName': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(72,47): error C2065: 'endl': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(73,2): error C2065: 'cout': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(73,32): error C2065: 'stockSymbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(73,47): error C2065: 'endl': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(74,2): error C2065: 'cout': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(74,46): error C2065: 'endl': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(79,15): error C2039: 'getName': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(79,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(79,15): error C2146: syntax error: missing ';' before identifier 'getName'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(80,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(80,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(86,15): error C2039: 'getSymbol': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(86,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(86,1): error C2086: 'int string': redefinition
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(79,1): message : see declaration of 'string'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(86,15): error C2146: syntax error: missing ';' before identifier 'getSymbol'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(87,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(87,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(101,9): error C2065: 'stockSymbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(101,28): error C2039: 'stockSymbol': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(108,9): error C2065: 'stockSymbol': undeclared identifier
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(108,28): error C2039: 'stockSymbol': is not a member of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stock.h(32,7): message : see declaration of 'Stock'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(31,13): error C2661: 'Stock::Stock': no overloaded function takes 3 arguments
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(31,13): message : while trying to match the argument list '(const char [6], const char [5], double)'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(32,17): error C2661: 'Stock::Stock': no overloaded function takes 3 arguments
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(32,17): message : while trying to match the argument list '(const char [10], const char [5], double)'
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(33,12): error C2661: 'Stock::Stock': no overloaded function takes 3 arguments
+C:\Users\avdom\OneDrive\Documents\source\repos\data structures II\assignment 1\assignment 1\stockDriver.cpp(33,12): message : while trying to match the argument list '(const char [5], const char [5], double)'
